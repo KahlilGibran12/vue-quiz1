@@ -14,6 +14,8 @@
         <h5>Universitas Islam Negeri Sultan Syarif Kasim Riau</h5>
         <h2>Selamat Datang</h2>
       </div>
+      <div class="background">
+      </div>
       </div>
     </div>
   
@@ -31,7 +33,7 @@
   
 <style>
 .text-center{
-  margin-top: 35px;
+  margin-top: -10px;
   color: #181818;
 
 }
@@ -41,9 +43,12 @@
 }
 
 .profile {
-  padding-top: 60px;
+  padding-top: 20px;
 }
 
+#app{
+  background: linear-gradient(rgba(3, 29, 86, 0.96), rgba(60, 125, 190, 0.9), rgba(218, 224, 224, 0.96)),center/cover no-repeat;
+}
 
 
 </style>
